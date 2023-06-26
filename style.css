@@ -1,15 +1,16 @@
 * {
 
-    background-size:cover;
+  background-size:cover;
 
-    font-family:'helvetica neue';
+  font-family:'helvetica neue';
 
-    text-align: center;
+  text-align: center;
 
-    font-size: 25px;
+  font-size: 25px;
 
-  }
+}
+h1 { 
+font-size: 40px;
+font-weight: bold;
+}
 
-h1,h1 {
-    color: red;
-  }
